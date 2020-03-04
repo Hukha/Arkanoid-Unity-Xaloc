@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 6f332588689630c41aed5568d61f7f59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8867750551611922713
+    second: BasicArkanoidPack_0
+  - first:
+      213: -562155013417825825
+    second: BasicArkanoidPack_1
+  - first:
+      213: 690696643596080731
+    second: BasicArkanoidPack_2
+  - first:
+      213: -5874907438164824662
+    second: BasicArkanoidPack_3
+  - first:
+      213: -5675765125158142219
+    second: BasicArkanoidPack_4
+  - first:
+      213: 6855581029180145791
+    second: BasicArkanoidPack_5
+  - first:
+      213: 1447673167173226883
+    second: BasicArkanoidPack_6
+  - first:
+      213: 3119802071192771808
+    second: BasicArkanoidPack_7
+  - first:
+      213: 2347807252193122458
+    second: BasicArkanoidPack_8
+  - first:
+      213: -9092591595372289376
+    second: BasicArkanoidPack_9
+  - first:
+      213: 3345604596107148701
+    second: BasicArkanoidPack_10
+  - first:
+      213: 7609730426921878769
+    second: BasicArkanoidPack_11
+  - first:
+      213: -7250548680220842617
+    second: BasicArkanoidPack_12
+  - first:
+      213: -44924107754558514
+    second: BasicArkanoidPack_13
+  - first:
+      213: 8964339832151122086
+    second: BasicArkanoidPack_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BasicArkanoidPack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771919490e49338408a6eb36d2524fbe
+      internalID: 8867750551611922713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1399f60d378a6d047b7a85d0b1ab2354
+      internalID: -562155013417825825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017e31083a3cf6d4aac301e2ae70b8db
+      internalID: 690696643596080731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 104
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb6a2d4dcfad5544948b6a9728365b6
+      internalID: -5874907438164824662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adde3ae626932cb418a974ff9662bb5f
+      internalID: -5675765125158142219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5cbfcfc5de70d46b0a5add03c80800
+      internalID: 6855581029180145791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd533e28bfa35247a21c6840722668d
+      internalID: 1447673167173226883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b668a5a4ce9e98244a318946bd3f312a
+      internalID: 3119802071192771808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf5afb09e2bfab45a2c0edf8a7a004b
+      internalID: 2347807252193122458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990edd73ca786b40959473c6dc2b89d
+      internalID: -9092591595372289376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c5d6315aadce940b2bbe59431a1d79
+      internalID: 3345604596107148701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ab85e4b5705af46b6e764546354875
+      internalID: 7609730426921878769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 128
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010819cdbe0a38b4cb7276a57e4b34f8
+      internalID: -7250548680220842617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 96
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc294a291bd226e45a3ec016f16f960b
+      internalID: -44924107754558514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArkanoidPack_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 161
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baff375404018034b81a2d5808fec693
+      internalID: 8964339832151122086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 18, y: -41}
+      - {x: -136, y: -41}
+      - {x: -140, y: -45}
+      - {x: -140, y: -67}
+      - {x: -139, y: -68}
+      - {x: 19, y: -68}
+      - {x: 23, y: -64}
+      - {x: 23, y: -46}
+    - - {x: 42, y: -41}
+      - {x: 42, y: -68}
+      - {x: 140, y: -68}
+      - {x: 140, y: -41}
+    - - {x: -120, y: -10}
+      - {x: -122, y: -9}
+      - {x: -139, y: -9}
+      - {x: -140, y: -12}
+      - {x: -140, y: -36}
+      - {x: -138, y: -37}
+      - {x: -132, y: -38}
+      - {x: -120, y: -38}
+      - {x: -114, y: -32}
+      - {x: -113, y: -23}
+      - {x: -113, y: -18}
+    - - {x: -104, y: -9}
+      - {x: -110, y: -14}
+      - {x: -110, y: -31}
+      - {x: -107, y: -38}
+      - {x: -86, y: -38}
+      - {x: -81, y: -35}
+      - {x: -81, y: -19}
+      - {x: -87, y: -9}
+    - - {x: -56, y: -10}
+      - {x: -64, y: -9}
+      - {x: -71, y: -9}
+      - {x: -78, y: -15}
+      - {x: -78, y: -31}
+      - {x: -76, y: -38}
+      - {x: -57, y: -38}
+      - {x: -50, y: -32}
+      - {x: -49, y: -23}
+      - {x: -49, y: -18}
+    - - {x: -42, y: -9}
+      - {x: -46, y: -17}
+      - {x: -46, y: -35}
+      - {x: -41, y: -38}
+      - {x: -23, y: -38}
+      - {x: -17, y: -29}
+      - {x: -17, y: -16}
+      - {x: -23, y: -9}
+    - - {x: 11, y: -9}
+      - {x: 10, y: -12}
+      - {x: 10, y: -38}
+      - {x: 140, y: -38}
+      - {x: 140, y: -13}
+      - {x: 136, y: -9}
+    - - {x: -78, y: 30}
+      - {x: -140, y: 30}
+      - {x: -140, y: -5}
+      - {x: -137, y: -6}
+      - {x: -79, y: -6}
+      - {x: -73, y: -2}
+      - {x: -73, y: 26}
+    - - {x: -70, y: 30}
+      - {x: -70, y: -5}
+      - {x: -65, y: -6}
+      - {x: -3, y: -6}
+      - {x: -1, y: -1}
+      - {x: -1, y: 30}
+    - - {x: 7, y: 30}
+      - {x: 2, y: 25}
+      - {x: 2, y: -1}
+      - {x: 7, y: -6}
+      - {x: 65, y: -6}
+      - {x: 70, y: -1}
+      - {x: 70, y: 25}
+      - {x: 65, y: 30}
+    - - {x: 79, y: 30}
+      - {x: 74, y: 25}
+      - {x: 74, y: -1}
+      - {x: 79, y: -6}
+      - {x: 137, y: -6}
+      - {x: 140, y: -3}
+      - {x: 140, y: 27}
+      - {x: 137, y: 30}
+    - - {x: -140, y: 68}
+      - {x: -140, y: 34}
+      - {x: -136, y: 33}
+      - {x: -74, y: 33}
+      - {x: -73, y: 36}
+      - {x: -73, y: 68}
+    - - {x: -70, y: 68}
+      - {x: -70, y: 33}
+      - {x: -2, y: 33}
+      - {x: -1, y: 38}
+      - {x: -1, y: 64}
+      - {x: -2, y: 68}
+    - - {x: 2, y: 33}
+      - {x: 70, y: 33}
+      - {x: 70, y: 68}
+      - {x: 2, y: 68}
+    - - {x: 74, y: 68}
+      - {x: 74, y: 33}
+      - {x: 140, y: 33}
+      - {x: 140, y: 67}
+      - {x: 139, y: 68}
+    physicsShape:
+    - - {x: -140, y: 36}
+      - {x: -140, y: 68}
+      - {x: -75, y: 68}
+      - {x: -75, y: 36}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
